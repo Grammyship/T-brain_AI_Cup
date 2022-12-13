@@ -1,5 +1,6 @@
 # T-brain_AI_Cup
 TEAM_2235
+https://github.com/Grammyship/T-brain_AI_Cup
 
 ## Environment
 Same as Google Colab Python environment (free).
