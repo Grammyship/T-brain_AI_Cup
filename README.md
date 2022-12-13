@@ -19,6 +19,7 @@ Same as Google Colab Python environment (free).
     All of our works. Including data preprocessing, model training, and outputting files.
     
     Below are blocks for training: 
+    以下是訓練的區段，請依照順序執行。
     - Download Files: used in the colab to get training set. You can ignore this block if you're running in local.
     - Initialize and Parameters: Model importing, global parameters' definition.
     - Util: Some function that are used for text processing.
@@ -26,6 +27,7 @@ Same as Google Colab Python environment (free).
     - Bert fine tune training: For training.
     
     Below are blocks for testing:
+    在訓練完後執行下列區段，即可輸出結果。
     - Answer Preprocessing: Preprocess answer.
     - Predicting: Produce answer.
     
